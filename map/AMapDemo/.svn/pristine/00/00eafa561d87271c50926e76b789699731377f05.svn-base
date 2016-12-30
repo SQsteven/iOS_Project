@@ -1,0 +1,32 @@
+//
+//  ViewController.m
+//  AMapDemo
+//
+//  Created by 常彪 on 16/1/6.
+//  Copyright © 2016年 0xcb. All rights reserved.
+//
+
+//包id： com.zhiyou.AMap
+//应用名称	KEY	绑定服务	安全策略配置
+//测试地图 82e2c4204defb32e70ed33e04681e2ab	iOS平台SDK
+
+#import "ViewController.h"
+
+
+@interface ViewController ()
+
+@end
+
+@implementation ViewController
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    // Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+@end
